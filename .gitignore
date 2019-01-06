@@ -1,3 +1,30 @@
+<<<<<<< Upstream, based on origin/master
+# Compiled class file
+=======
+<<<<<<< HEAD
+>>>>>>> 52ac414 Sync.
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+<<<<<<< Upstream, based on origin/master
+*.zip
+*.tar.gz
+*.rar
+=======
+=======
 # Compiled class file
 *.class
 
@@ -18,6 +45,8 @@
 *.zip
 *.tar.gz
 *.rar
+>>>>>>> branch 'master' of https://github.com/CGCC-CS/CSC205AdditionalExamples.git
+>>>>>>> 52ac414 Sync.
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
